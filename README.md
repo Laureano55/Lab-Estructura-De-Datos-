@@ -7,6 +7,8 @@ Integrantes:
 
 ## Instrucciones para correr código correspondiente al punto 1: 
 
+(hubo un fallo inesperado antes de subir el archivo final y se encuentra corrupto, el grupo está trabajando para arreglar esto"
+
 En la carpeta llamada “archivos” se colocarán los 4 archivos con la extensión .txt, los nombres de los archivos deben ser exactamente: “Clientes”, “facturas” y “Productos”. Los archivos deben tener los datos respectivos solicitados en el “Laboratorio 1” por el profesor Sebastian Racedo, cada uno de los datos separados por un “tap” (en código “\t” o un “	“).  
 
 En caso de que la carpeta no contenga los archivos necesarios, falte alguno o el código no sea capaz de leerlos, se le notificará al usuario esto y se le preguntará si desea que el programa corra con unos archivos con datos generados aleatoriamente, el nombre de estos archivos será: “ClientesT”, “facturasT” y “ProductosT” (si se corre el programa otra vez y se vuelve a escoger esta opción, los archivos anteriores se eliminarán y se crearán unos nuevos. 
@@ -21,5 +23,7 @@ Una vez que el programa empiece, lo primero que se hará será ordenar los archi
 Cuando se seleccione una opción, se realizará dicha accion y se volverá al mismo menú hasta que se termine el programa.
 
 ## Link con las respuestas correspondientes al punto 2:
+
+(el archivo támbien se encuentra en el repositorio)
 
 https://docs.google.com/document/d/1QZUj3CQ9e5WCojQ4tHaXmYWRBoBhIpQg8XQJzw15UNc/edit?usp=sharing
